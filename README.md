@@ -1,8 +1,15 @@
 # Project Title
 
+LearnRegEx.py
 This is a simple example of using regular expressions in Python.
 It is important to know because it will be used for the chat-bot
 exercise.
+
+Test-My-Tokens.py
+This is a simple example of the Natural Language Toolkit (NLTK)
+that researchers in the field of machine learning and natural
+language processing use
+
 
 ## Table of Contents
 
@@ -24,7 +31,8 @@ No installation necessary.
 
 ## Authors
 
-Your friendly, neighborhood Dr. Ken.
+Unknown, possible research team of Mascha
+Some modifications by Ken to print out the Penn Treebank
 
 ## License
 
