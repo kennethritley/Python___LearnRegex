@@ -9,6 +9,13 @@
 
 import nltk
 
+# Put this here in case it has not already been downloaded
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('maxent_ne_chunker')
+nltk.download('words')
+nltk.download('treebank')
+
 #--------------------------------------------------------------------
 # Tokenize and tag some text, from https://www.nltk.org/
 #--------------------------------------------------------------------
