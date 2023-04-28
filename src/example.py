@@ -4,7 +4,7 @@ This is just a little script that tests whether all the bits-and-pieces
 have been installed for the Chat Bot exercise
 
 Author: KEN
-Date:   2023.04.23
+Date:   2022.04.04
 '''
 
 import nltk
